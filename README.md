@@ -14,9 +14,9 @@ transcripts.
 This guide walks you from having no account at all to entering your first bounty and claiming a reward. It assumes
 no prior experience with make.fun.
 
-> **Starting through my referral link helps me at no cost to you:** [https://make.fun/r/0v49q3vn](https://make.fun/r/0v49q3vn)
+> **Starting through my referral link helps me at no cost to you:** [https://make.fun/r/a92hvn26](https://make.fun/r/a92hvn26)
 >
-> Referral code: `0v49q3vn`
+> Referral code: `a92hvn26`
 
 ## Contents
 
@@ -69,7 +69,7 @@ Four facts worth knowing before you invest any time:
 
 ## Step 1 — Create your account
 
-1. Go to [https://make.fun/r/0v49q3vn](https://make.fun/r/0v49q3vn) and choose **Sign in** at the top right.
+1. Go to [https://make.fun/r/a92hvn26](https://make.fun/r/a92hvn26) and choose **Sign in** at the top right.
 2. Sign in with GitHub, Google, Apple, Discord or a Solana wallet. All of them are free, and signing in with a
    wallet does not send a transaction.
 3. Open your profile from the avatar at the top right and fill it in: username, picture, a short bio.
@@ -239,7 +239,7 @@ new accounts that actually take part count; your own second account, signups fro
 accounts that never do anything are all filtered out by the same check that pays the rewards.
 
 If this guide was useful, the friendly way to say thanks is to sign up through
-[my referral link](https://make.fun/r/0v49q3vn) — code `0v49q3vn`.
+[my referral link](https://make.fun/r/a92hvn26) — code `a92hvn26`.
 
 ## Common questions
 
@@ -292,4 +292,4 @@ you name.
 
 ---
 
-<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/0v49q3vn · code `0v49q3vn`</sub>
+<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/a92hvn26 · code `a92hvn26`</sub>
